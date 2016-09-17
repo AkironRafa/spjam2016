@@ -1,0 +1,22 @@
+#Custom
+*.dll
+*.pdb
+*.psess
+*.vsp
+*.pfx
+
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
+
+#Visual Studio files
+*~
+
+*.swatch
+*.swatches
+**/Binaries/*
+**/DerivedDataCache/*
+**/Intermediate/*
+**/Saved/*
+**/Build/*
+**/desktop.ini
