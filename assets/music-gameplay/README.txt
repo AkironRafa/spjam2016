@@ -32,3 +32,9 @@ L2-3-A3             26 segundos exatos
         O loop termina neste arquivo, o próximo deve ser o L2-1
 L2-4-trans-A        22 segundos exatos
         Contém a transição de volta para a fase 1.
+
+Há também um arquivo "Game-over". Assim que ele começa a tocar deve-se fazer
+um rápido fade-out da música.
+E se fôssemos justapor algo imediatamente após o Game Over, deveria ser
+aos 6 segundos. Mas acho melhor que a próxima coisa não entre imediatamente
+e sim aos 10 segundos.
